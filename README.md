@@ -1,7 +1,7 @@
 
 
 ## About Me
-Hi, I'm Ananya
+Hi, I'm Ananya!
 
 I am a final-year **Electronics and Communication Engineering** student at **MIT, Manipal**. 
 <img src="git_image.jpg" align="right" alt="Die Shot" width="220" />
@@ -11,3 +11,5 @@ I am currently working on the design of a curvature-compensated bandgap referenc
 Reach out to me at:
 - **Email:** parasharananya.2@gmail.com
 - **LinkedIn:** [Ananya Parashar](https://www.linkedin.com/in/ananya-parashar-049406282/)
+
+Cheers!
