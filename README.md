@@ -1,4 +1,4 @@
-<img src="git_image.jpg" align="right" alt="Die Shot" width="220" />
+
 
 ## About Me
 Hi, I'm Ananya
